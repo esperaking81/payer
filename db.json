@@ -11,15 +11,17 @@
   "profile": {
     "name": "typicode"
   },
-  "credit": {
-    "id": "1",
-    "Numéro du compteur": "14255523236",
-    "Nom du propriétaire": "FANOU Albert",
-    "Addresse du compteur": "AKP",
-    "Noms": "AWE",
-    "Prénoms": "Paul",
-    "Numéro de paiement MoMo": "612786542",
-    "Montant du paiement": "5000",
-    "Raison": "Achat code électricité"
-  }
+  "credit": [
+    {
+      "id": "1",
+      "Numéro du compteur": "14255523236",
+      "Nom du propriétaire": "FANOU Albert",
+      "Addresse du compteur": "AKP",
+      "Noms": "AWE",
+      "Prénoms": "Paul",
+      "Numéro de paiement MoMo": "612786542",
+      "Montant du paiement": "5000",
+      "Raison": "Achat code électricité"
+    }
+  ]
 }
